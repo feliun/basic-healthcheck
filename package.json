@@ -1,0 +1,17 @@
+{
+  "name": "basic-healthcheck",
+  "version": "1.0.0",
+  "description": "Basic healthcheck for your system",
+  "main": "index.js",
+  "keywords": [
+    "healthcheck",
+    "status",
+    "system"
+  ],
+  "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feliun/basic-healthcheck/issues"
+  },
+  "homepage": "https://github.com/feliun/basic-healthcheck"
+}
