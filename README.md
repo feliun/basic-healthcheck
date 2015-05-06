@@ -7,7 +7,7 @@ Here is a basic example:
 ```
 var basicHC = require('basic-healthcheck')
 
-basicHC.status(list_of_options)
+var mystatus = basicHC.status(list_of_options)
 ```
 the options being:
 
@@ -23,5 +23,5 @@ Full example:
 ```
 var basicHC = require('basic-healthcheck')
 
-basicHC.status([ 'memory', 'disk', 'node_version' ])
+var mystatus = basicHC.status([ 'memory', 'disk', 'node_version' ])
 ```
