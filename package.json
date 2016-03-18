@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/feliun/basic-healthcheck/issues"
   },
-  "homepage": "https://github.com/feliun/basic-healthcheck"
+  "homepage": "https://github.com/feliun/basic-healthcheck",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
 }
